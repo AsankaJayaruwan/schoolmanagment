@@ -1,0 +1,9 @@
+swal({
+  title: "Are you sure?",
+  text: "Your record will bw deleted permanantly",
+  type: "warning",
+  showCancelButton: true,
+  confirmButtonClass: "btn-danger",
+  confirmButtonText: "Yes, delete it!",
+  closeOnConfirm: false
+},
